@@ -1,0 +1,20 @@
+# Папки збірки
+bin/
+obj/
+
+# Тимчасові файли Visual Studio
+*.user
+*.suo
+*.log
+*.pdb
+
+# Windows специфічні
+Thumbs.db
+desktop.ini
+
+# Вихідні файли програми / зібрані файли
+*.exe
+*.dll
+
+# Node.js dependencies
+node_modules/
