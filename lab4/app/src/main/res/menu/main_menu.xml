@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/newFile"
+        android:title="Новий"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/openFile"
+        android:title="Відкрити"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/saveFile"
+        android:title="Зберегти"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/exitApp"
+        android:title="Вийти"
+        app:showAsAction="never"/>
+</menu>
