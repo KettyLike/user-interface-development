@@ -1,4 +1,3 @@
-```
 # TextEditorApp
 
 Мобільний застосунок для Android, який реалізує простий текстовий редактор.
@@ -25,4 +24,3 @@
 - app/src/main/java/com/example/texteditorapp/MainActivity.kt – головна активність
 - app/src/main/res/layout/activity_main.xml – інтерфейс користувача
 - app/src/main/res/menu/main_menu.xml – меню верхньої панелі
-```
